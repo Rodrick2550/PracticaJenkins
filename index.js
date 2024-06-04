@@ -7,7 +7,7 @@ const port = 3000;
 
 app.get('/api/v1/welcome', (req,res) =>{
     
-        res.send('Welcome to the API')
+        res.send('Welcome to the hell')
 })
 
 app.listen(port, () =>{
